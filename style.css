@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    border: 2px solid black;
+    margin: 2% 10%;
+}
+
+.image {
+    float: left;
+    width: 25%;
+    margin: 2%;
+}
+
+.parag {
+    margin: 2%;
+    text-align: justify;
+    text-indent: 25px;
+}
+
+button {
+    float: right;
+    margin: 3%;
+}
